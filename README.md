@@ -34,13 +34,21 @@
 **order_status** — статус заказа
 
 **created** — создан
+
 **approved** — подтверждён
+
 **invoiced** — выставлен счёт
+
 **processing** — в процессе сборки заказа
+
 **shipped** — отгружен со склада
+
 **delivered** — доставлен пользователю
+
 **unavailable** — недоступен
+
 **canceled** — отменён
+
 **order_purchase_timestamp** — время создания заказа
 
 **order_approved_at** — время подтверждения оплаты заказа
